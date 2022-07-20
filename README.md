@@ -18,5 +18,6 @@ Used libraries:
 10. time
 11. os
 12. random
+13. scrappy framework
 
 Prior to running the algorithm, the tables must be imported to the MYSQL database
