@@ -1,4 +1,6 @@
 # news_aggregator
+working example of the entire script can be viewed here: https://tuinwestor.pl/newsy
+
 News aggregation repository to parse newspapers with a given list of RSS FEED. 
 Articels are analyzed using NLP techniques to detect similar topics, estimate text readability and reading time.
 Then, articles are analyzed in terms of the occurrence of word variations of given companies in MySQL DB table.
@@ -20,4 +22,4 @@ Used libraries:
 12. random
 13. scrappy framework
 
-Prior to running the algorithm, the tables must be imported to the MYSQL database
+Prior to running the algorithm, the tables must be imported to the MYSQL database.
