@@ -6,7 +6,7 @@ Based on the text analysis, the algorithm selects the most important topics of t
 
 Used libraries:
 
-1. mysql.connector
+1. @mysql.connector
 2. dotenv
 3. nltk
 4. pandas
