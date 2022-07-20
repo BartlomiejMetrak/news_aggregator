@@ -6,15 +6,17 @@ Based on the text analysis, the algorithm selects the most important topics of t
 
 Used libraries:
 
-1. @mysql.connector
-2. dotenv
-3. nltk
-4. pandas
-5. numpy
-6. sqlalchemy
-7. sklearn
-8. spacy
-9. re
+1.  mysql.connector
+2.  dotenv
+3.  nltk
+4.  pandas
+5.  numpy
+6.  sqlalchemy
+7.  sklearn
+8.  spacy
+9.  re
 10. time
 11. os
 12. random
+
+Prior to running the algorithm, the tables must be imported to the MYSQL database
