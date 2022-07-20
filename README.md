@@ -1,5 +1,5 @@
 # news_aggregator
-working example of the entire script can be viewed here: https://tuinwestor.pl/newsy
+Working example of the entire script can be viewed here: https://tuinwestor.pl/newsy
 
 News aggregation repository to parse newspapers with a given list of RSS FEED. 
 Articels are analyzed using NLP techniques to detect similar topics, estimate text readability and reading time.
